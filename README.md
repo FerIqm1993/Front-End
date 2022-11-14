@@ -1,5 +1,5 @@
 # Front-End
-Conjnuto de prácticas que forman parte del programa de Innovaccion, FrontEnd-Mision.
+Conjunto de prácticas que forman parte del programa de Innovaccion, FrontEnd-Mision.
 Módulos:
 El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
 
