@@ -5,7 +5,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 
 Módulos:
 
-1. [Programación FrontEnd](./01%20-%20INTRO/README.md)
+1. [Programación FrontEnd]
 
    - ¿Qué es la programación FRONTEND?
    - ¿Para que sirve la programación FRONTEND?
@@ -15,7 +15,7 @@ Módulos:
    - Estructura de páginas web
    - Estructura y limpieza de código
 
-2. [HTML](./02%20-%20HTML/README.md)
+2. [HTML]
 
    - ¿Qué es HTML?
    - Estructura de archivo HTML
@@ -37,7 +37,7 @@ Módulos:
    - Propiedades de etiquetas / Properties
    - Práctica de HTML
 
-3. [CSS](./03%20-%20CSS/README.md)
+3. [CSS]
 
    - ¿Qué es CSS?
    - Selectores / Selector
@@ -53,7 +53,7 @@ Módulos:
    - Librerías de CSS
    - Práctica de CSS
 
-4. [JavaScript](./04%20-%20JS/README.md)
+4. [JavaScript]
 
    - ¿Qué es JS?
    - Variables, tipos y operadores
@@ -83,7 +83,7 @@ Módulos:
    - JSON Server
    - Práctica de Vue
 
-6. [VUEX](./06%20-%20VUEX/vuex.md)
+6. [VUEX]
 
    - ¿Qué es VUEX?
    - Patrón de manejo de estado
@@ -95,7 +95,7 @@ Módulos:
    - Módulos
    - Práctica VUEX
 
-7. [Azure](./08%20-%20AZURE/azure.md)
+7. [Azure]
    - Azure Static Web App
    - Setup
    - Github Actions
