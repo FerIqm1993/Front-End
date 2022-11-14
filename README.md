@@ -70,7 +70,7 @@ Módulos:
    - Librerías y paquetes de JS
    - Práctica de JS
 
-5. [Vue JS](./05%20-%20VUEJS/README.md)
+5. [Vue JS].
 
    - ¿Qué es VueJS?
    - Setup de VueJS
